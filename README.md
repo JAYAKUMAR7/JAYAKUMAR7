@@ -11,10 +11,12 @@
 # <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Java and Solidity**
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="25">;I regularly write articles on [https://www.codoproject.com/](https://www.codoproject.com/)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="25"> I regularly write articles on [https://www.codoproject.com/](https://www.codoproject.com/)
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> I’m looking to collaborate on **Machine Learning**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m looking for help with **Interviews**
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Blockchain technology**
-
+- <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> Pronouns: **He/Him**
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **jj158009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
