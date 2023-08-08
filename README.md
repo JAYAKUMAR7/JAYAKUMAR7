@@ -9,13 +9,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:
-- 🌱 I’m currently learning **Java and Solidity**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Java and Solidity**
 
-- 📝 I regularly write articles on [https://www.codoproject.com/](https://www.codoproject.com/)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="25">;I regularly write articles on [https://www.codoproject.com/](https://www.codoproject.com/)
 
-- 💬 Ask me about **Blockchain technology**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Blockchain technology**
 
-- 📫 How to reach me **jj158009@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **jj158009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
